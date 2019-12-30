@@ -1,0 +1,2 @@
+# legacyscript.club
+my website
